@@ -46,7 +46,7 @@ const WhyChoose = () => {
             data-bs-parent="#accordionOne"
           >
             <div className="accordion-body">
-              <p>{item.content}</p>
+              <p className="text-justify">{item.content}</p>
             </div>
           </div>
         </div>

@@ -192,7 +192,7 @@ const AboutUsV4 = () => {
         Feature Section Thirty Three
         ============================================== 
         */}
-      <div className="fancy-feature-thirtyThree mt-180 lg-mt-120">
+      <div className="fancy-feature-thirtyThree mt-70 lg-mt-70">
         <div className="container">
           <div className="title-style-ten text-center" aos="fade-up">
             <div className="sc-title">FAQ</div>
@@ -272,7 +272,7 @@ const AboutUsV4 = () => {
             </div>
           </div>
         </div>
-        <div className="shapes shape-one" />
+        {/* <div className="shapes shape-one" /> */}
       </div>
       {/* /.fancy-short-banner-twelve */}
       {/*

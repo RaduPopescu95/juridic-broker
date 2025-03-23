@@ -33,7 +33,7 @@ const AppBanner = () => {
           </p>
           <ul className="style-none list-item">
             {features.map((feature, index) => (
-              <li key={index}>{feature}</li>
+              <li className="text-justify" key={index}>{feature}</li>
             ))}
           </ul>
           {/* End list */}

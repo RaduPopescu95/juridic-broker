@@ -27,10 +27,10 @@ const Hero1 = () => {
             data-aos="fade-up"
           >
             <h1 className="hero-heading fw-500 tx-dark">
-              Siguranță pentru <span>tine</span> &amp; și viitorul tău.
+              Siguranță pentru <span>tine</span> &amp; și viitorul tău
             </h1>
             <p className="text-lg tx-dark mt-45 mb-50 lg-mt-30 lg-mb-40">
-              Prețuri mici. Inimi mari.
+              Prețuri mici - Inimi mari
             </p>
             <form
               className="search-area d-md-inline-flex m-auto"

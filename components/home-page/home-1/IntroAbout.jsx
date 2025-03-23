@@ -48,9 +48,9 @@ const IntroAbout = () => {
               className="lazy-img cursor-pointer"
               onClick={() => setOpen(true)}
             /> */}
-            <p className="tx-dark pt-30 pb-30 md-pb-15" data-aos="fade-up">
+            <p className="tx-dark pt-30 pb-30 md-pb-15 text-justify" data-aos="fade-up">
               Echipa noastră a încheie în medie{" "}
-              <span className="fw-500">1000 de contracte</span> pe lună. Inovația și dedicarea joacă un rol esențial.
+              <span className="fw-500 text-justify">1000 de contracte</span> pe lună. Inovația și dedicarea joacă un rol esențial.
             </p>
             <h6
               className="fs-20 tx-dark d-inline-block fst-italic position-relative ps-4"

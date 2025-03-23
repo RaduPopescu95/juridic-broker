@@ -15,7 +15,7 @@ const OurMission = () => {
                 alt="icon"
               />
             </div>
-            <p className="tx-dark mt-35 lg-mt-30 mb-45 lg-mb-30">
+            <p className="text-justify tx-dark mt-35 lg-mt-30 mb-45 lg-mb-30">
   Aleg această agenție pentru seriozitate și sprijin rapid. Știu că mă pot baza pe ei atunci când contează cel mai mult.
 </p>
 
@@ -55,13 +55,13 @@ const OurMission = () => {
                   alt="media"
                   className="lazy-img w-100"
                 />
-                <div
+                {/* <div
                   className="rating d-flex flex-column align-items-center justify-content-center"
                   data-aos="fade-up"
                 >
                   <div className="font-recoleta tx-dark rating-value">4.8</div>
                   <div className="fs-18 tx-dark">Evaluare clienți</div>
-                </div>
+                </div> */}
                 {/* /.rating */}
               </div>
               {/* /.img-meta */}
