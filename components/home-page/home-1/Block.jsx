@@ -29,11 +29,11 @@ const Block = () => {
             <p>
               Colaborează cu noi pentru a compara ușor și transparent.
             </p>
-            <img
+            {/* <img
               src="/images/shape/shape_138.svg"
               alt="formă"
               className="lazy-img shapes shape-one"
-            />
+            /> */}
           </div>
           {/* /.block-wrapper */}
         </div>

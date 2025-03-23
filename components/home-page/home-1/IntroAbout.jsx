@@ -49,7 +49,7 @@ const IntroAbout = () => {
               onClick={() => setOpen(true)}
             /> */}
             <p className="tx-dark pt-30 pb-30 md-pb-15 text-justify" data-aos="fade-up">
-              Echipa noastră a încheie în medie{" "}
+              Echipa noastră încheie în medie{" "}
               <span className="fw-500 text-justify">1000 de contracte</span> pe lună. Inovația și dedicarea joacă un rol esențial.
             </p>
             <h6

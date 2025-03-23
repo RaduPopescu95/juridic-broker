@@ -255,7 +255,7 @@ const Insurance = () => {
             {/* /.row */}
             <div className="text-center xs-mt-40">
               <Link
-                href="/blog/blog-v2"
+                href="/blog"
                 className="btn-twentyTwo fw-500 tran3s"
                 data-aos="fade-left"
               >

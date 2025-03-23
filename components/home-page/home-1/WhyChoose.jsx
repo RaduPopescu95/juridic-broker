@@ -2,7 +2,7 @@ const accordionItems = [
   {
     id: 1,
     icon: "/images/icon/icon_108.svg",
-    title: "Cel mai mic preț.",
+    title: "Cel mai mic preț",
     content:
       "Beneficiați de prețuri imbatabile și oferte adaptate nevoilor dumneavoastră pentru o protecție completă.",
   },
