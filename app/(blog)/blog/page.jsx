@@ -41,11 +41,11 @@ const GridWithSidebar = () => {
           </div>
         </div>
         {/* /.container */}
-        <img
+        {/* <img
           src="/images/shape/shape_172.svg"
           alt="shape"
           className="lazy-img shapes shape-two"
-        />
+        /> */}
       </div>
 
       {/*
@@ -77,16 +77,16 @@ const GridWithSidebar = () => {
                   </div> */}
                   {/* /.blog-sidebar-search */}
 
-                  <div className="blog-sidebar-category mb-60 md-mb-50">
+                  {/* <div className="blog-sidebar-category mb-60 md-mb-50">
                     <h4 className="sidebar-title">Categorii</h4>
                     <Category />
-                  </div>
+                  </div> */}
                   {/* /.blog-sidebar-category */}
-{/* 
+
                   <div className="sidebar-recent-news mb-60 md-mb-50">
                     <h4 className="sidebar-title">Articole recente</h4>
                     <RecentPost />
-                  </div> */}
+                  </div>
                   {/* /.sidebar-recent-news */}
 
                   {/* <BannerPost /> */}

@@ -28,15 +28,5 @@ module.exports = [
     imageSrc: "/images/blog/blog_img_09.jpg",
     delay: "200",
   },
-  {
-    id: 4,
-    tag: "Copii",
-    tagStyle: { background: "#FFEAEA" },
-    title: "Asigurări pentru familii: Protejarea viitorului copiilor",
-    description:
-      "Investiția în asigurări adecvate pentru familie asigură un viitor sigur pentru cei dragi.",
-    imageSrc: "/images/blog/blog_img_09.jpg",
-    delay: "300",
-  },
-  
+
 ];

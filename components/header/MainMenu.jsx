@@ -24,10 +24,10 @@ const MainMenu = () => {
       <button
         className="navbar-toggler d-block d-lg-none"
         type="button"
-        data-bs-toggle="collapse"
+        // data-bs-toggle="collapse"
         data-bs-target="#navbarNav"
         aria-controls="navbarNav"
-        aria-expanded="false"
+        // aria-expanded="false"
         aria-label="Toggle navigation"
       >
         <span />
@@ -55,9 +55,9 @@ const MainMenu = () => {
               // className="nav-link dropdown-toggle active-menu"
               href="/"
               role="button"
-              data-bs-toggle="dropdown"
+              // data-bs-toggle="dropdown"
               data-bs-auto-close="outside"
-              aria-expanded="false"
+              // aria-expanded="false"
               className={
                 menuItems.some((menu) =>
                   menu.items.some((elm) => isActive(elm.link))
@@ -124,9 +124,9 @@ const MainMenu = () => {
               }
               href="/despre-noi"
               role="button"
-              data-bs-toggle="dropdown"
+              // data-bs-toggle="dropdown"
               data-bs-auto-close="outside"
-              aria-expanded="false"
+              // aria-expanded="false"
             >
               Despre noi
             </a>
@@ -135,9 +135,9 @@ const MainMenu = () => {
                 <li className="dropdown-submenu dropdown" key={index}>
                   <a
                     // className="dropdown-item dropdown-toggle"
-                    data-bs-toggle="dropdown"
+                    // data-bs-toggle="dropdown"
                     data-bs-auto-close="outside"
-                    aria-expanded="false"
+                    // aria-expanded="false"
                     className={
                       item.subItems.some((elm) => isActive(elm.link))
                         ? "dropdown-item active-menu"
@@ -177,9 +177,9 @@ const MainMenu = () => {
               }
               href="/portofoliu"
               role="button"
-              data-bs-toggle="dropdown"
+              // data-bs-toggle="dropdown"
               data-bs-auto-close="outside"
-              aria-expanded="false"
+              // aria-expanded="false"
             >
               Portofoliu
             </a>
@@ -210,9 +210,9 @@ const MainMenu = () => {
               }
               href="/blog"
               role="button"
-              data-bs-toggle="dropdown"
+              // data-bs-toggle="dropdown"
               data-bs-auto-close="outside"
-              aria-expanded="false"
+              // aria-expanded="false"
             >
               Blog
             </a>
@@ -242,9 +242,9 @@ const MainMenu = () => {
               }
               href="/contact"
               role="button"
-              data-bs-toggle="dropdown"
+              // data-bs-toggle="dropdown"
               data-bs-auto-close="outside"
-              aria-expanded="false"
+              // aria-expanded="false"
             >
               Contact
             </a>
