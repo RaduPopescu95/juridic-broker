@@ -16,7 +16,7 @@ import WhyChoose from "@/components/home-page/home-1/WhyChoose";
 export const metadata = {
   title: "Asigurari || Juridic - Broker",
 };
-const Asigurari = () => {
+const Insurance = () => {
   return (
     <>
       {/* <!-- 
@@ -282,7 +282,7 @@ const Asigurari = () => {
                   </Link>
                 </div>
                 {/* <p className="text-white opacity-75 fs-18 mt-15 mb-45 lg-mb-10">
-                  Best Asigurari Company.
+                  Best Insurance Company.
                 </p>
                 <p className="text-white opacity-50 fs-15 m0 d-none d-lg-block">
                   © {new Date().getFullYear()} - {new Date().getFullYear() + 1}{" "}
@@ -313,4 +313,4 @@ const Asigurari = () => {
   );
 };
 
-export default Asigurari;
+export default Insurance;
