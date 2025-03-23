@@ -1,9 +1,9 @@
-import Asigurari from "./home/Asigurari/page";
+import Insurance from "./home/Insurance/page";
 export const metadata = {
   title: "Asigurari || Juridic - Broker",
 };
 const MainRoot = () => {
-  return <Asigurari />;
+  return <Insurance />;
 };
 
 export default MainRoot;
