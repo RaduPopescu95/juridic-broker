@@ -8,7 +8,7 @@ import Link from "next/link";
 import Faq2 from "@/components/faqs/Faq2";
 import SocialPartner from "@/components/common/SocialPartner";
 export const metadata = {
-  title: "Pricing V2 || Jano - Creative Multipurpose React NextJS Template",
+  title: "Pricing V2 || Juridic - Broker",
 };
 const PricingV2 = () => {
   return (
@@ -166,7 +166,7 @@ const PricingV2 = () => {
                       style={{ backgroundColor: "#CDFFF0" }}
                     />
                   </span>{" "}
-                  use Jano as their digital HQ, including:
+                  use Juridic as their digital HQ, including:
                 </h2>
               </div>{" "}
               {/* /.title-style-three */}

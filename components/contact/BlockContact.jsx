@@ -4,7 +4,7 @@ const BlockContact = () => {
   const addressBlocks = [
     {
       icon: "/images/icon/icon_147.svg",
-      title: "Our Address",
+      title: "Ade",
       content: "1012 Pebda Parkway, Mirpur 2 Dhaka, Bangladesh",
       delay: "100",
     },
@@ -19,7 +19,7 @@ const BlockContact = () => {
       icon: "/images/icon/icon_149.svg",
       title: "Live Support",
       content: "live chat service",
-      link: "www.janolivechat.com",
+      link: "www.Juridiclivechat.com",
       delay: "300",
     },
   ];

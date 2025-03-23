@@ -14,10 +14,10 @@ const Hero = () => {
             className="lazy-img shapes line-shape-two"
           />
         </b>
-        with Jano.
+        with Juridic.
       </h1>
       <p className="text-lg mb-40 pt-20 lg-mb-30">
-        Jano delivered fast performance &amp; striking soludtion
+        Juridic delivered fast performance &amp; striking soludtion
       </p>
       <Link
         href="/pages-menu/about-us-v1"

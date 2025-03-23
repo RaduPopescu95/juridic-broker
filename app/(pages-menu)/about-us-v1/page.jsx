@@ -9,7 +9,7 @@ import Link from "next/link";
 import VideoBlock from "@/components/about/VideoBlock";
 import Counter from "@/components/about/Counter";
 export const metadata = {
-  title: "About Us V1 || Jano - Creative Multipurpose React NextJS Template",
+  title: "About Us V1 || Juridic - Broker",
 };
 const AboutUsV1 = () => {
   const features = [

@@ -47,7 +47,7 @@ const CounterSection = () => {
       color: "#FFC735",
     },
     {
-      title: "Million Insurance Coverage",
+      title: "Million Asigurari Coverage",
       value: 10,
       symbol: "",
       color: "#F177FF",

@@ -1,9 +1,9 @@
-import Insurance from "./home/insurance/page";
+import Asigurari from "./home/Asigurari/page";
 export const metadata = {
-  title: "Insurance || Jano - Creative Multipurpose React NextJS Template",
+  title: "Asigurari || Juridic - Broker",
 };
 const MainRoot = () => {
-  return <Insurance />;
+  return <Asigurari />;
 };
 
 export default MainRoot;

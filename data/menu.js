@@ -2,7 +2,7 @@ export const menuItems = [
   {
     title: "Business",
     items: [
-      { title: "Insurance", link: "/" },
+      { title: "Asigurari", link: "/" },
       { title: "Web Hosting", link: "/home/web-hosting" },
       { title: "Education", link: "/home/education" },
       { title: "N.P. Charity", link: "/home/charity" },
@@ -33,7 +33,7 @@ export const pagesItems = [
   {
     title: "About Us",
     subItems: [
-      { title: "About - Insurance", link: "/pages-menu/about-us-v1" },
+      { title: "About - Asigurari", link: "/pages-menu/about-us-v1" },
       { title: "About - Real Estate", link: "/pages-menu/about-us-v2" },
       { title: "About - Agency", link: "/pages-menu/about-us-v3" },
       { title: "About - Lead Generation", link: "/pages-menu/about-us-v4" },
@@ -42,7 +42,7 @@ export const pagesItems = [
   {
     title: "Services",
     subItems: [
-      { title: "Service - Insurance", link: "/pages-menu/service-v1" },
+      { title: "Service - Asigurari", link: "/pages-menu/service-v1" },
       { title: "Service - Real Estate", link: "/pages-menu/service-v2" },
       { title: "Service Lead Generation", link: "/pages-menu/service-v3" },
       { title: "Service Agency", link: "/pages-menu/service-v4" },
@@ -102,7 +102,7 @@ export const blogItems = [
   { link: "/blog/1", text: "Blog Details" },
 ];
 export const contactItems = [
-  { link: "/contact/contact-v1", text: "Contact - Insurance" },
+  { link: "/contact/contact-v1", text: "Contact - Asigurari" },
   { link: "/contact/contact-v2", text: "Contact - Agency" },
   { link: "/contact/contact-v3", text: "Contact - Web Hosting" },
   { link: "/contact/contact-v4", text: "Contact - L.Generation" },
@@ -112,7 +112,7 @@ export const navItems = [
   {
     label: "Home",
     submenuItems: [
-      { title: "Insurance", link: "/" },
+      { title: "Asigurari", link: "/" },
       { title: "Web Hosting", link: "/home/web-hosting" },
       { title: "Education", link: "/home/education" },
       { title: "N.P. Charity", link: "/home/charity" },

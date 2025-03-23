@@ -12,7 +12,7 @@ const Banner = () => {
     <div className="top-banner text-center">
       <h2 className="tx-dark mb-20">Agenție de asigurări de top</h2>
       <p className="text-lg tx-dark opacity-75 mb-30 lg-mb-20">
-        “Nu puteam sa cer mai mult de la Jano”
+        “Nu puteam sa cer mai mult de la Juridic”
       </p>
       <div className="d-inline-flex align-items-center">
         <ul className="d-flex style-none rating">{stars}</ul>

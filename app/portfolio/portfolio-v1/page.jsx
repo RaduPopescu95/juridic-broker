@@ -4,7 +4,7 @@ import PortfolioTopTitle from "@/components/portfolio/PortfolioTopTitle";
 import PortfolioGallery1 from "@/components/portfolio/PortfolioGallery1";
 import Link from "next/link";
 export const metadata = {
-  title: "Portfolio V1 || Jano - Creative Multipurpose React NextJS Template",
+  title: "Portfolio V1 || Juridic - Broker",
 };
 const PortfolioV1 = () => {
   return (

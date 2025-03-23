@@ -12,7 +12,7 @@ const Block = () => {
         <div className="col-md-7 col-sm-8" data-aos="fade-down">
           <div className="block-wrapper block-one">
             <h3 style={{ color: "#FFAE10" }}>10million+</h3>
-            <p>Customers trust us &amp; have bought insurance.</p>
+            <p>Customers trust us &amp; have bought Asigurari.</p>
           </div>
           {/* /.block-wrapper */}
         </div>
@@ -24,7 +24,7 @@ const Block = () => {
           <div className="block-wrapper block-two position-relative mt-50 sm-mt-30">
             <h3 style={{ color: "#9650EF" }}>
               50+ <br />
-              <span>Insurance</span>
+              <span>Asigurari</span>
             </h3>
             <p>
               Partnered with us so that you can compare easily &amp;

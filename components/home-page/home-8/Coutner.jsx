@@ -21,7 +21,7 @@ const Counter = () => {
     {
       id: 2,
       value: 10,
-      text: "Million Insurance Coverage",
+      text: "Million Asigurari Coverage",
       delay: 0.2,
     },
     {

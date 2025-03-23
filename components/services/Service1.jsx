@@ -8,7 +8,7 @@ const services = [
   },
   {
     iconSrc: "/images/icon/icon_105.svg",
-    title: "Travel Insurance",
+    title: "Travel Asigurari",
     delay: "200",
   },
   {
@@ -18,12 +18,12 @@ const services = [
   },
   {
     iconSrc: "/images/icon/icon_107.svg",
-    title: "Health Insurance",
+    title: "Health Asigurari",
     delay: "100",
   },
   {
     iconSrc: "/images/icon/icon_141.svg",
-    title: "Life Insurance",
+    title: "Life Asigurari",
     delay: "200",
   },
   {

@@ -25,7 +25,7 @@ const Footer = () => {
         // { label: "Investment", href: "/service-details" },
         // { label: "Mediclaim Policy", href: "/service-details" },
         // { label: "Others", href: "/service-details" },
-        // { label: "Health Insurance", href: "/service-details" },
+        // { label: "Health Asigurari", href: "/service-details" },
       ],
     },
   ];

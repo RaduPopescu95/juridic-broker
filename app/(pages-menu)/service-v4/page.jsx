@@ -7,7 +7,7 @@ import Faq4 from "@/components/faqs/Faq4";
 import Testimonial from "@/components/services/Testimonial";
 import CallToActions from "@/components/services/CallToActions";
 export const metadata = {
-  title: "Service V4 || Jano - Creative Multipurpose React NextJS Template",
+  title: "Service V4 || Juridic - Broker",
 };
 const ServiceV4 = () => {
   return (
@@ -60,7 +60,7 @@ const ServiceV4 = () => {
             </div>
             <div className="col-lg-5 ms-auto aos fadeInRight">
               <p className="text-lg text-center text-lg-start md-pt-30 m0">
-                Jano provides alternative asset management solutions to a global
+                Juridic provides alternative asset management solutions to a global
                 client base and manages a significant.
               </p>
             </div>
@@ -87,7 +87,7 @@ const ServiceV4 = () => {
                 <div className="title-style-one">
                   <div className="sc-title text-uppercase">Why us?</div>
                   <h2 className="main-title fw-bold tx-dark">
-                    Why <span>choose</span> Jano.
+                    Why <span>choose</span> Juridic.
                   </h2>
                 </div>{" "}
                 {/* /.title-style-one */}

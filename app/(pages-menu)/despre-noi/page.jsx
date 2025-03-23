@@ -14,7 +14,7 @@ import CounterSection from "@/components/home-page/home-13/Counter";
 import Footer from "@/components/footer/Footer";
 
 export const metadata = {
-  title: "About Us V4 || Jano - Creative Multipurpose React NextJS Template",
+  title: "About Us V4 || Juridic - Broker",
 };
 const AboutUsV4 = () => {
   return (
@@ -82,7 +82,7 @@ const AboutUsV4 = () => {
             <h2 className="main-title font-recoleta fw-normal tx-dark">
             Despre noi{" "}
               {/* <span className="position-relative">
-              Jano. The People.
+              Juridic. The People.
                 <Image
                   width={235}
                   height={9}
@@ -291,11 +291,11 @@ const AboutUsV4 = () => {
                   </Link>
                 </div>
                 {/* <p className="text-white opacity-75 fs-18 mt-15 mb-45 lg-mb-10">
-                  Best Insurance Company.
+                  Best Asigurari Company.
                 </p>
                 <p className="text-white opacity-50 fs-15 m0 d-none d-lg-block">
                   © {new Date().getFullYear()} - {new Date().getFullYear() + 1}{" "}
-                  jano inc.
+                  Juridic inc.
                 </p> */}
               </div>
               <Footer />

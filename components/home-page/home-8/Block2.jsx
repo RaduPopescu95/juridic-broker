@@ -9,7 +9,7 @@ const Block2 = () => {
     },
     {
       icon: "/images/icon/icon_79.png",
-      title: "Protected by insurance",
+      title: "Protected by Asigurari",
       description: "Convert data noise intelligent for quis lorem.",
     },
     {

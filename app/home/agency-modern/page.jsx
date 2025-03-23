@@ -12,7 +12,7 @@ import FancyBanner from "@/components/home-page/home-10/FancyBanner";
 import CallToActions from "@/components/home-page/home-10/CallToActions";
 import Footer from "@/components/home-page/home-10/Footer";
 export const metadata = {
-  title: "Agency Modern || Jano - Creative Multipurpose React NextJS Template",
+  title: "Agency Modern || Juridic - Broker",
 };
 const AgencyModern = () => {
   return (
@@ -60,7 +60,7 @@ const AgencyModern = () => {
             </div>
             <div className="col-lg-5 ms-auto" data-aos="fade-left">
               <p className="text-lg text-center text-lg-start md-pt-30 m0">
-                Jano provides alternative asset management solutions to a global
+                Juridic provides alternative asset management solutions to a global
                 client base and manages a significant.
               </p>
             </div>

@@ -8,7 +8,7 @@ import ProgressBar from "@/components/service-details/ProgressBar";
 import Social from "@/components/service-details/Social";
 export const metadata = {
   title:
-    "Service Details || Jano - Creative Multipurpose React NextJS Template",
+    "Service Details || Juridic - Broker",
 };
 const PortfolioV1 = () => {
   return (

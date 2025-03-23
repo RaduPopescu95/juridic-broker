@@ -4,7 +4,7 @@ import React from "react";
 const tableData = [
   {
     header: "",
-    items: ["", "Jano", "Jano", "Hostgator", "GoDaddy"],
+    items: ["", "Juridic", "Juridic", "Hostgator", "GoDaddy"],
   },
   {
     header: "Unlimited Email",

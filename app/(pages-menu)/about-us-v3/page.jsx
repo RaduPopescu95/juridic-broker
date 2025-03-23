@@ -9,7 +9,7 @@ import Block from "@/components/about/Block";
 import Counter2 from "@/components/about/Counter2";
 import AboutCeo from "@/components/about/AboutCeo";
 export const metadata = {
-  title: "AboutUs V3 || Jano - Creative Multipurpose React NextJS Template",
+  title: "AboutUs V3 || Juridic - Broker",
 };
 const AboutUsV3 = () => {
   return (
@@ -78,7 +78,7 @@ const AboutUsV3 = () => {
                 <div className="title-style-one mt-30">
                   <div className="sc-title text-uppercase">Why us?</div>
                   <h2 className="main-title fw-bold tx-dark">
-                    Why <span>choose</span> Jano.
+                    Why <span>choose</span> Juridic.
                   </h2>
                 </div>{" "}
                 {/* /.title-style-one */}
