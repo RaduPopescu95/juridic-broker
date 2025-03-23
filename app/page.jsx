@@ -1,4 +1,4 @@
-import Insurance from "./home/Insurance/page";
+import Insurance from "./home/insurance/page";
 export const metadata = {
   title: "Asigurari || Juridic - Broker",
 };
